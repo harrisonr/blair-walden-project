@@ -1,4 +1,3 @@
-Harrison wrote this because he is learning git.
 
 ﻿This is a modified version of Walden, and On The Duty Of Civil Disobedience,
 by Henry David Thoreau.
